@@ -1,11 +1,11 @@
-⚠️ Lootcord no longer runs on this code, it has been rewritten to Typescript and made private. This code is outdated and does not fully support Discord slash commands which will be a requirement in the future for Discord bots. I will not provide any assistance regarding this repository.
+⚠️ UwuBot no longer runs on this code, it has been rewritten to Typescript and made private. This code is outdated and does not fully support Discord slash commands which will be a requirement in the future for Discord bots. I will not provide any assistance regarding this repository.
 
 <div>
   <p align="center">
-    <a href="https://discord.com/oauth2/authorize?client_id=493316754689359874&permissions=274878221504&scope=bot%20applications.commands"><img src="https://cdn.discordapp.com/attachments/497302646521069570/764344112299507763/lootcord_icon_transparent_small.png"/></a>
+    <a href="https://discord.com/oauth2/authorize?client_id=935121243705843772&permissions=274878221504&scope=bot%20applications.commands"><img src="(https://cdn.discordapp.com/avatars/935121243705843772/314717b81a2677ae1d07d196b35e1aca.png?size=4096)"/></a>
   </p>
   <h1 align="center">
-    Lootcord
+    UwuBot
   </h1>
   <p align="center">
     <a href="https://discordbots.org/bot/493316754689359874"><img src="https://discordbots.org/api/widget/upvotes/493316754689359874.svg"/></a>
@@ -15,12 +15,12 @@
 </div>
 
 ## About
-Website: https://lootcord.com<br>
-Invite: https://discord.com/oauth2/authorize?client_id=493316754689359874&permissions=274878221504&scope=bot%20applications.commands<br>
-Discord Server: https://discord.gg/apKSxuE<br>
+Website: none<br>
+Invite: https://discord.com/oauth2/authorize?client_id=935121243705843772&permissions=274878221504&scope=bot%20applications.commands<br>
+Discord Server: [https://discord.gg/apKSxuE](https://discord.gg/PHWPVGgqFG)<br>
 
 ## Commands
-Commands can be found [here](https://lootcord.com/commands).
+Commands can be found t-help).
 
 ## Self-hosting when?
 
@@ -61,3 +61,6 @@ You can run:
 npm run test
 ```
 to make sure your code follows the project style and passes the tests
+
+
+**#MapXoor**
